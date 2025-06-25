@@ -38,10 +38,10 @@ delivery-time-prediction/
 
 ## 🧪 Models Used
 
-- Linear Regression
+- Decision Tree
 - Random Forest Regressor
-- Gradient Boosting
-- Artificial Neural Networks (Keras Sequential Model)
+- XG Boost
+- Conventional Neural Network
 
 ---
 
