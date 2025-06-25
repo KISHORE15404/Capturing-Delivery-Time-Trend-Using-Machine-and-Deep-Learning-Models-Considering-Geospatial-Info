@@ -43,6 +43,15 @@ delivery-time-prediction/
 - XG Boost
 - Conventional Neural Network
 
+## 📈 Model Performance
+
+| Algorithm                     | R² Score | Mean Squared Error |
+|------------------------------|----------|---------------------|
+| Random Forest                | 0.9005   | 8.78                |
+| Decision Tree                | 0.9911   | 0.78                |
+| XGBoost                      | 0.5244   | 41.95               |
+| Convolutional Neural Network | 0.2843   | 63.12               |
+
 ---
 
 ## 📈 Key Insights
