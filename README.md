@@ -65,9 +65,9 @@ delivery-time-prediction/
 3. Run all cells to perform data preprocessing, model training, and result analysis.
 
 📬 Contact
-Kishore N
-📧 kishoren15404@gmail.com
-🔗 linkedin.com/in/kishoren
+- Kishore N
+- 📧 kishoren15404@gmail.com
+- 🔗 linkedin.com/in/kishoren
 
 📄 License
 This project is licensed under the MIT License.
